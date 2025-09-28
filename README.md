@@ -5,7 +5,6 @@
 
 ![Farcoins Banner](Banner/Banner.png)
 
-Farcoins is at the forefront of integrating digital asset management with social engagement within the Web3 ecosystem. We empower users to seamlessly interact with digital assets directly within their social feeds, fostering a more intuitive and rewarding experience.
 
 ## The Farcoins Advantage: Bridging Social and Digital Worlds
 
